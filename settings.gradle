@@ -1,0 +1,2 @@
+rootProject.name='AIDLSampleExample'
+include ':app'
